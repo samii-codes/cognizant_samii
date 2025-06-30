@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\DN 4.0 Deep Skilling\\Week2_Nunit and MoQ\\2_Write Testable Code with Moq\\Code\\Lib\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36CACD73-5B16-4F19-84E1-BFC01022F059}|..\\CustomeCommLib.Tests\\CustomeCommLib.Tests.csproj|c:\\users\\hp\\desktop\\dn 4.0 deep skilling\\week2_nunit and moq\\2_write testable code with moq\\code\\customecommlib.tests\\customercommtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA48D5A3-3819-4F67-B501-A6C2C649CE65}|Lib.csproj|c:\\users\\hp\\desktop\\dn 4.0 deep skilling\\week2_nunit and moq\\2_write testable code with moq\\code\\lib\\customercomm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA48D5A3-3819-4F67-B501-A6C2C649CE65}|Lib.csproj|solutionrelative:customercomm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA48D5A3-3819-4F67-B501-A6C2C649CE65}|Lib.csproj|c:\\users\\hp\\desktop\\dn 4.0 deep skilling\\week2_nunit and moq\\2_write testable code with moq\\code\\lib\\mailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA48D5A3-3819-4F67-B501-A6C2C649CE65}|Lib.csproj|solutionrelative:mailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerCommTests.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\DN 4.0 Deep Skilling\\Week2_Nunit and MoQ\\2_Write Testable Code with Moq\\Code\\CustomeCommLib.Tests\\CustomerCommTests.cs",
+              "RelativeDocumentMoniker": "..\\CustomeCommLib.Tests\\CustomerCommTests.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\DN 4.0 Deep Skilling\\Week2_Nunit and MoQ\\2_Write Testable Code with Moq\\Code\\CustomeCommLib.Tests\\CustomerCommTests.cs",
+              "RelativeToolTip": "..\\CustomeCommLib.Tests\\CustomerCommTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T09:54:38.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerComm.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\DN 4.0 Deep Skilling\\Week2_Nunit and MoQ\\2_Write Testable Code with Moq\\Code\\Lib\\CustomerComm.cs",
+              "RelativeDocumentMoniker": "CustomerComm.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\DN 4.0 Deep Skilling\\Week2_Nunit and MoQ\\2_Write Testable Code with Moq\\Code\\Lib\\CustomerComm.cs",
+              "RelativeToolTip": "CustomerComm.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T09:53:32.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MailSender.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\DN 4.0 Deep Skilling\\Week2_Nunit and MoQ\\2_Write Testable Code with Moq\\Code\\Lib\\MailSender.cs",
+              "RelativeDocumentMoniker": "MailSender.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\DN 4.0 Deep Skilling\\Week2_Nunit and MoQ\\2_Write Testable Code with Moq\\Code\\Lib\\MailSender.cs",
+              "RelativeToolTip": "MailSender.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T09:46:41.185Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

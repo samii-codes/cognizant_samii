@@ -1,0 +1,6 @@
+C:\Users\HP\Desktop\DN 4.0 Deep Skilling\Week2_Nunit and MoQ\2_Write Testable Code with Moq\Code\Lib\bin\Debug\Lib.dll
+C:\Users\HP\Desktop\DN 4.0 Deep Skilling\Week2_Nunit and MoQ\2_Write Testable Code with Moq\Code\Lib\bin\Debug\Lib.pdb
+C:\Users\HP\Desktop\DN 4.0 Deep Skilling\Week2_Nunit and MoQ\2_Write Testable Code with Moq\Code\Lib\obj\Debug\Lib.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\DN 4.0 Deep Skilling\Week2_Nunit and MoQ\2_Write Testable Code with Moq\Code\Lib\obj\Debug\Lib.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\DN 4.0 Deep Skilling\Week2_Nunit and MoQ\2_Write Testable Code with Moq\Code\Lib\obj\Debug\Lib.dll
+C:\Users\HP\Desktop\DN 4.0 Deep Skilling\Week2_Nunit and MoQ\2_Write Testable Code with Moq\Code\Lib\obj\Debug\Lib.pdb

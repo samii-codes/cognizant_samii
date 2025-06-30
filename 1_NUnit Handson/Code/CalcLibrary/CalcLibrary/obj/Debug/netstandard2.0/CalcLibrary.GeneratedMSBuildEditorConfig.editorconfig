@@ -1,0 +1,8 @@
+is_global = true
+build_property.RootNamespace = CalcLibrary
+build_property.ProjectDir = C:\Users\HP\Desktop\DN 4.0 Deep Skilling\Week2_Nunit and MoQ\1_NUnit Handson\Code\CalcLibrary\CalcLibrary\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 
