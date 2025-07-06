@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\DN 4.0 Deep Skilling\\Week3_Entity Framework Core\\3_Using EF Core CLI to Create and Apply Migrations\\Code\\RetailInventory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B9C16B-3408-4566-80FC-671ADEDF57F2}|RetailInventory.csproj|c:\\users\\hp\\desktop\\dn 4.0 deep skilling\\week3_entity framework core\\3_using ef core cli to create and apply migrations\\code\\retailinventory\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B9C16B-3408-4566-80FC-671ADEDF57F2}|RetailInventory.csproj|solutionrelative:appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B9C16B-3408-4566-80FC-671ADEDF57F2}|RetailInventory.csproj|c:\\users\\hp\\desktop\\dn 4.0 deep skilling\\week3_entity framework core\\3_using ef core cli to create and apply migrations\\code\\retailinventory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B9C16B-3408-4566-80FC-671ADEDF57F2}|RetailInventory.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\DN 4.0 Deep Skilling\\Week3_Entity Framework Core\\3_Using EF Core CLI to Create and Apply Migrations\\Code\\RetailInventory\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "AppDbContext.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\DN 4.0 Deep Skilling\\Week3_Entity Framework Core\\3_Using EF Core CLI to Create and Apply Migrations\\Code\\RetailInventory\\AppDbContext.cs",
+              "RelativeToolTip": "AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T10:37:46.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\DN 4.0 Deep Skilling\\Week3_Entity Framework Core\\3_Using EF Core CLI to Create and Apply Migrations\\Code\\RetailInventory\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\DN 4.0 Deep Skilling\\Week3_Entity Framework Core\\3_Using EF Core CLI to Create and Apply Migrations\\Code\\RetailInventory\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T10:28:28.725Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
