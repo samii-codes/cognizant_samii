@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\DN 4.0 Deep Skilling\\Week4_WebApi\\2_WebApi Handson\\Code\\HandonApiApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{909D7D13-8E4D-44DD-BE2B-21EBA3ED625F}|HandonApiApplication.csproj|c:\\users\\hp\\desktop\\dn 4.0 deep skilling\\week4_webapi\\2_webapi handson\\code\\handonapiapplication\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{909D7D13-8E4D-44DD-BE2B-21EBA3ED625F}|HandonApiApplication.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{909D7D13-8E4D-44DD-BE2B-21EBA3ED625F}|HandonApiApplication.csproj|c:\\users\\hp\\desktop\\dn 4.0 deep skilling\\week4_webapi\\2_webapi handson\\code\\handonapiapplication\\satrtup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{909D7D13-8E4D-44DD-BE2B-21EBA3ED625F}|HandonApiApplication.csproj|solutionrelative:satrtup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{909D7D13-8E4D-44DD-BE2B-21EBA3ED625F}|HandonApiApplication.csproj|c:\\users\\hp\\desktop\\dn 4.0 deep skilling\\week4_webapi\\2_webapi handson\\code\\handonapiapplication\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{909D7D13-8E4D-44DD-BE2B-21EBA3ED625F}|HandonApiApplication.csproj|solutionrelative:controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{909D7D13-8E4D-44DD-BE2B-21EBA3ED625F}|HandonApiApplication.csproj|c:\\users\\hp\\desktop\\dn 4.0 deep skilling\\week4_webapi\\2_webapi handson\\code\\handonapiapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{909D7D13-8E4D-44DD-BE2B-21EBA3ED625F}|HandonApiApplication.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\DN 4.0 Deep Skilling\\Week4_WebApi\\2_WebApi Handson\\Code\\HandonApiApplication\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\DN 4.0 Deep Skilling\\Week4_WebApi\\2_WebApi Handson\\Code\\HandonApiApplication\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T05:59:31.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\DN 4.0 Deep Skilling\\Week4_WebApi\\2_WebApi Handson\\Code\\HandonApiApplication\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\DN 4.0 Deep Skilling\\Week4_WebApi\\2_WebApi Handson\\Code\\HandonApiApplication\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T05:48:51.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Satrtup.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\DN 4.0 Deep Skilling\\Week4_WebApi\\2_WebApi Handson\\Code\\HandonApiApplication\\Satrtup.cs",
+              "RelativeDocumentMoniker": "Satrtup.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\DN 4.0 Deep Skilling\\Week4_WebApi\\2_WebApi Handson\\Code\\HandonApiApplication\\Satrtup.cs",
+              "RelativeToolTip": "Satrtup.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA9wB8AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T05:48:03.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\DN 4.0 Deep Skilling\\Week4_WebApi\\2_WebApi Handson\\Code\\HandonApiApplication\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ValuesController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\DN 4.0 Deep Skilling\\Week4_WebApi\\2_WebApi Handson\\Code\\HandonApiApplication\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "Controllers\\ValuesController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T05:45:11.334Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
