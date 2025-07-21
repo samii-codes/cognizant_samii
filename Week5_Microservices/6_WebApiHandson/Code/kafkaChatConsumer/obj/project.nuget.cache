@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z384IeETYGk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\DN 4.0 Deep Skilling\\Week5_Microservices\\6_WebApiHandson\\Code\\kafkaChatConsumer\\kafkaChatConsumer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\confluent.kafka\\2.11.0\\confluent.kafka.2.11.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\librdkafka.redist\\2.11.0\\librdkafka.redist.2.11.0.nupkg.sha512"
+  ],
+  "logs": []
+}
